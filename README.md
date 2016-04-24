@@ -5,7 +5,7 @@
     1- The Basic Bluetooth Pairing code is witten using Bluez Dbus Interface and methods. It is in Bluez_dbus
        folder. D-feet was used for monitoring and debugging dbus. The code was tested for pairing android
        phone with ubuntu Desktop.
-    2- Serial Port Profile Sample code was devloped using pybluez. Pybluez is the wrapper class around bluez
+    2- Serial Port Profile Sample code was developed using pybluez. Pybluez is the wrapper class around bluez
        api. An echo message code is developed and tested with ubuntu and android phone. Android App Unwired
        Lite was installed on phone. This example code can be used to develop the application which allows
        you to send commands and receive data between Bluetooth serial devices connected to microcontrollers
